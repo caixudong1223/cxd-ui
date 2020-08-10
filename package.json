@@ -5,6 +5,7 @@
   "main": "lib/cxd-ui.umd.min.js",
   "keywords": ["cxd-ui"],
   "license": "MIT",
+  "repository": "https://github.com/caixudong1223/cxd-ui.git",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
